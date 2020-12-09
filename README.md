@@ -85,7 +85,7 @@ You should be able to read and write to these attributes. This class should
 also keep track of each instance of dog created, as well as a class method
 `all` to return an array of those instances.
 
-#### `controllers` directory
+#### `controllers` directory 
 
 The controllers, such as `application_controller.rb`, are where the application 
 configurations, routes, and controller actions are implemented. There is
